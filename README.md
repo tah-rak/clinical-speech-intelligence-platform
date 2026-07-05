@@ -83,7 +83,7 @@ This application is a research and portfolio prototype. It is **not a medical de
 
 ```bash
 # 1. Clone the repository
-git clone <your-repo-url>
+git clone 
 cd clinical-speech-intelligence-platform
 
 # 2. Copy environment files
