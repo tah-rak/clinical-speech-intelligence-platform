@@ -1,0 +1,77 @@
+# Environment and secrets — NEVER commit real values
+.env
+.env.local
+.env.*.local
+backend/.env
+frontend/.env
+!.env.example
+!**/.env.example
+
+# Credentials and keys
+*.pem
+*.key
+*.p12
+credentials.json
+service-account*.json
+**/secrets/
+**/uploads/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.venv/
+env/
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+
+# Node
+node_modules/
+frontend/dist/
+frontend/.vite/
+*.log
+npm-debug.log*
+
+# IDE / Editor — keeps repo independent of Cursor or local machine
+.cursor/
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# App runtime data
+uploads/
+data/
+*.wav
+*.mp3
+*.m4a
+
+# ML model weights/cache (not backend/app/models application code)
+.cache/
+.huggingface/
+/models/
+!backend/app/models/
+!backend/app/models/**
+
+# Terraform / cloud state (can contain account IDs)
+*.tfstate
+*.tfstate.*
+.terraform/
+
+# Docker local overrides
+docker-compose.override.yml

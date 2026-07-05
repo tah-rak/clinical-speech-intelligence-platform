@@ -1,0 +1,9 @@
+Doctor: Good morning. How are you feeling today?
+Patient: I have had chest pain since yesterday. It gets worse when I walk.
+Doctor: Any shortness of breath or nausea?
+Patient: A little shortness of breath. No nausea. I take lisinopril for hypertension.
+Doctor: Any allergies to medications?
+Patient: I am allergic to penicillin.
+Doctor: We should order an EKG and blood work. I will prescribe nitroglycerin as needed.
+Patient: When should I follow up?
+Doctor: Please return in one week or sooner if symptoms worsen.

@@ -1,0 +1,11 @@
+{
+  "symptoms": ["Chest Pain", "Shortness of Breath"],
+  "medications": ["Lisinopril", "Nitroglycerin"],
+  "allergies": ["Allergic to penicillin"],
+  "conditions": ["Hypertension"],
+  "duration": ["since yesterday", "one week"],
+  "tests_labs": ["EKG", "Blood Test"],
+  "diagnosis": [],
+  "treatment_plan": ["Prescribe", "Recommend"],
+  "follow_up": ["in one week"]
+}

@@ -1,0 +1,7 @@
+{
+  "subjective": "Patient presents with chest pain since yesterday, worse with exertion. Reports mild shortness of breath. Takes lisinopril for hypertension. Allergic to penicillin.",
+  "objective": "Vital signs not documented in transcript. Labs/tests discussed: EKG, blood work.",
+  "assessment": "Clinical presentation consistent with chest pain. Known condition: Hypertension.",
+  "plan": "Order EKG and blood work. Prescribe nitroglycerin PRN. Follow up in one week.",
+  "generator": "template"
+}
