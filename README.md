@@ -83,7 +83,7 @@ This application is a research and portfolio prototype. It is **not a medical de
 
 ```bash
 # 1. Clone the repository
-git clone 
+git clone https://github.com/tah-rak/clinical-speech-intelligence-platform.git
 cd clinical-speech-intelligence-platform
 
 # 2. Copy environment files
