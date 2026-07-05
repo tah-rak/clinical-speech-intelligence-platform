@@ -284,6 +284,3 @@ clinical-speech-intelligence-platform/
 
 
 
-## License
-
-MIT License.
