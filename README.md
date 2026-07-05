@@ -60,11 +60,7 @@ CSIP is an end-to-end clinical speech intelligence pipeline:
 | DevOps | Docker, Docker Compose, Makefile |
 | Cloud (optional) | AWS S3, Azure AI Speech, GCP Cloud Run, Firebase Hosting, Firestore |
 
-## Security and public release
 
-See [SECURITY.md](SECURITY.md) for what is safe to publish.
-
-**Before your first public push:**
 
 ```bash
 git status                    # ensure .env files are NOT listed
